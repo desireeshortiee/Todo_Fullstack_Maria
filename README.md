@@ -15,6 +15,7 @@ Report on the mytodo app:
 Overview: The mytodo app helps users organize their tasks with ease, offering features like adding new tasks, editing existing ones, and deleting tasks. It also includes a filtering option to sort tasks by their status (completed or pending) and offers a dark mode for a more comfortable user experience.
 
 Key Features:
+
 Dark Mode: Switch between dark and light themes for better readability.
 
 Task Management:
