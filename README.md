@@ -1,9 +1,13 @@
 Django API endpoints
 
 Get All Tasks (GET) = https://backendmaria-d9eg.onrender.com/mytodo/
+
 Create a Task (POST) = https://backendmaria-d9eg.onrender.com/mytodo/
+
 Get a Specific Task (GET) = https://backendmaria-d9eg.onrender.com/mytodo/{id}/
+
 Update a Task (PUT) = https://backendmaria-d9eg.onrender.com/mytodo/{id}/
+
 Delete a Task (DELETE) = https://backendmaria-d9eg.onrender.com/mytodo/{id}/
 
 Report on the mytodo app:
